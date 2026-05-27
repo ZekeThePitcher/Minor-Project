@@ -1,4 +1,4 @@
-# Minor-Project- Machine Generated vs Human Generated Text Detection
+# Final-Year-Project- Machine Generated vs Human Generated Text Detection
 
 In this project we seek create a model which can detect and flag machine generated text. For this, we have used data made available from various resources like Kaggle, GitHub as well as collecting responses after giving prompts to LLM models like GPT and BARD. 
 
